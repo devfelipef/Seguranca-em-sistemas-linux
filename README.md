@@ -4,7 +4,10 @@ Segurança em Sistemas linux: Uma coisa é compreender um sistema, agora entende
 
 Links uteis abaixo:
 
-Escalação de Privilégios. Elevação de Privegios: https://www.vivaolinux.com.br/artigo/El ... ios-locais http://null-byte.wonderhowto.com/how-to
+Escalação de Privilégios. Elevação de Privegios:
+(https://www.vivaolinux.com.br/artigo/Elevacao-de-privilegios-locais)
+
+Ios-locais http://null-byte.wonderhowto.com/
 
 -ShellCript FreeOS: http://www.freeos.com/guides/lsst/index.htmlhttp://aurelio.net/shell/
 
