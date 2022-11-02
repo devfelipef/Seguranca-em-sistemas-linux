@@ -9,3 +9,6 @@ Escalação de Privilégios. Elevação de Privegios: https://www.vivaolinux.com
 -ShellCript FreeOS: http://www.freeos.com/guides/lsst/index.htmlhttp://aurelio.net/shell/
 
 
+(continuação..)
+
+
