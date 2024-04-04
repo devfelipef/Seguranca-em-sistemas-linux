@@ -12,6 +12,3 @@ Ios-locais http://null-byte.wonderhowto.com/
 -ShellCript FreeOS: http://www.freeos.com/guides/lsst/index.htmlhttp://aurelio.net/shell/
 
 
-(continuação..)
-
-
